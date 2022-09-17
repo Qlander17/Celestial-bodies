@@ -1,6 +1,6 @@
 # Celestial-bodies
 
-fCC's Relational Database - PostgreSQL - Build a Celestial Bodies Database Project
+fCCs Relational Database - PostgreSQL - Build a Celestial Bodies Database Project
 
 
 Complete the tasks below
